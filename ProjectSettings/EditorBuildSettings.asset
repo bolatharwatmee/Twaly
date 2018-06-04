@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scences/Main Menu.unity
+    guid: 718d603df16d93e4d88fccdbfeeecccc
+  - enabled: 1
+    path: Assets/Scences/Book Of Info.unity
+    guid: b80685465d99dd447a488c13f6ec5d07
+  - enabled: 1
+    path: Assets/Scences/Exam Q&A.unity
+    guid: baed86d2c5dd2704bb3f6030225c862c
+  - enabled: 1
+    path: Assets/Scences/Practical Exam.unity
+    guid: 2824fd7fcd6a4e84191c2269ecaa208a
+  - enabled: 1
+    path: Assets/Scences/FreeLevel.unity
+    guid: 872ef76ea8bb89240902ece8603fd06d
+  - enabled: 1
+    path: Assets/Scences/Component Level.unity
+    guid: 86a31c7af8a74fb418332e00c6fb1089
+  - enabled: 1
+    path: Assets/Scences/Level 10.unity
+    guid: 3af3a7245c6de7e49a236f2ad0e33c5c
+  - enabled: 1
+    path: Assets/Scences/Level 1.unity
+    guid: cca926a515ff5b345b6d4e09c3cda359
+  - enabled: 1
+    path: Assets/Scences/Level 3.unity
+    guid: c815c2f90ef56204e84e84ec617af2d8
+  - enabled: 1
+    path: Assets/Scences/Level 5.unity
+    guid: c81c144471fa80249967a0fd0574deee
+  - enabled: 1
+    path: Assets/Scences/Level 6.unity
+    guid: c32bef91c2baafd449e9950033a2ec4c
+  - enabled: 1
+    path: Assets/Scences/Level 2.unity
+    guid: c887ce1fca5f0604b9b6024be5547a3b
+  - enabled: 0
+    path: Assets/Scences/Level 9.unity
+    guid: 79f65dd74aec71e4ea28a3281f27c257

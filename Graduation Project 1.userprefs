@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\EventSystem\GvrBasePointer.cs">
+    <Files>
+      <File FileName="Assets\GoogleVR\Scripts\EventSystem\GvrBasePointer.cs" Line="160" Column="65" />
+      <File FileName="Assets\Scripts\Objectives\LevelNineObjectives.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrafficStoppedTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrossTrafficLightTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\DisactiveButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Objectives\LevelTenObjectives.cs" Line="38" Column="4" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="20" Column="26" />
+      <File FileName="Assets\Scripts\ResumeButton.cs" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\RestartLevel.cs" Line="8" Column="31" />
+      <File FileName="Assets\Scripts\Objectives\ExamObjectives.cs" Line="27" Column="17" />
+      <File FileName="Assets\Scripts\FinishTrigger.cs" Line="13" Column="33" />
+      <File FileName="Assets\Scripts\OnCollisionEnterTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WelcomeScreenScript.cs" Line="31" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

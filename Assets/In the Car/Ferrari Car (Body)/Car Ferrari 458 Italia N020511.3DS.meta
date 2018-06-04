@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 27a924dd19be46f4dbe5f8689bae0412
+timeCreated: 1519566809
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bonnet_ok
+    100002: boot_ok
+    100004: bump_front
+    100006: bump_rear_
+    100008: //RootNode
+    100010: chassis2
+    100012: door_lf_ok
+    100014: door_rf_ok
+    100016: fara_glass
+    100018: fars
+    100020: interior2
+    100022: interior_g
+    100024: Object01
+    100026: wheel
+    100028: wheel02
+    100030: windows
+    100032: windscreen
+    400000: bonnet_ok
+    400002: boot_ok
+    400004: bump_front
+    400006: bump_rear_
+    400008: //RootNode
+    400010: chassis2
+    400012: door_lf_ok
+    400014: door_rf_ok
+    400016: fara_glass
+    400018: fars
+    400020: interior2
+    400022: interior_g
+    400024: Object01
+    400026: wheel
+    400028: wheel02
+    400030: windows
+    400032: windscreen
+    2300000: bonnet_ok
+    2300002: boot_ok
+    2300004: bump_front
+    2300006: bump_rear_
+    2300008: chassis2
+    2300010: door_lf_ok
+    2300012: door_rf_ok
+    2300014: fara_glass
+    2300016: fars
+    2300018: interior2
+    2300020: interior_g
+    2300022: Object01
+    2300024: wheel
+    2300026: wheel02
+    2300028: windows
+    2300030: windscreen
+    3300000: bonnet_ok
+    3300002: boot_ok
+    3300004: bump_front
+    3300006: bump_rear_
+    3300008: chassis2
+    3300010: door_lf_ok
+    3300012: door_rf_ok
+    3300014: fara_glass
+    3300016: fars
+    3300018: interior2
+    3300020: interior_g
+    3300022: Object01
+    3300024: wheel
+    3300026: wheel02
+    3300028: windows
+    3300030: windscreen
+    4300000: Object01
+    4300002: wheel
+    4300004: windscreen
+    4300006: fara_glass
+    4300008: fars
+    4300010: windows
+    4300012: interior_g
+    4300014: door_lf_ok
+    4300016: bump_rear_
+    4300018: boot_ok
+    4300020: door_rf_ok
+    4300022: bump_front
+    4300024: bonnet_ok
+    4300026: interior2
+    4300028: chassis2
+    4300030: wheel02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
